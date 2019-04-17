@@ -1,0 +1,16 @@
+title: Furkan SAYIM
+name: Furkan SAYIM
+description: Bir Pentester ve Purple Teamer blogudur.
+permalink: /:year/:month/:day/:title.html
+
+baseurl: "/furkansayim.github.io"
+url: "http://furkansayim.com"
+lang: "tr"
+
+github_username:  xShuden
+
+social:
+    name: Furkan SAYIM
+    links:
+        - https://twitter.com/xShuden
+        - https://github.com/xShuden
