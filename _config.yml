@@ -3,7 +3,7 @@ name: Furkan SAYIM
 description: Bir Pentester ve Purple Teamer blogudur.
 permalink: /:year/:month/:day/:title.html
 
-baseurl: "/furkansayim.github.io"
+baseurl: ""
 url: "https://furkansayim.com"
 lang: "tr"
 
