@@ -4,7 +4,7 @@ description: Bir Pentester ve Purple Teamer blogudur.
 permalink: /:year/:month/:day/:title.html
 
 baseurl: "/furkansayim.github.io"
-url: "http://furkansayim.com"
+url: "https://furkansayim.com"
 lang: "tr"
 
 github_username:  xShuden
