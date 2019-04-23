@@ -1,7 +1,7 @@
 title: Furkan SAYIM
 name: Furkan SAYIM
 description: Bir Pentester ve Purple Teamer blogudur.
-permalink: /:year/:month/:day/:title.html
+permalink: /:title.html
 author: Furkan SAYIM
 
 
