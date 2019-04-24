@@ -8,4 +8,7 @@ permalink: /hakkimda/
 
 Hayatımda bana yol gösteren, yönlendiren ve öğrendiğim her şeyi bana öğreten **Üstad-ı Azam [İsmail SAYGILI]**'ya teşekkür ederim.
 
+GoodReads: [GoodReads]
+
 [İsmail SAYGILI]: https://www.ismailsaygili.com.tr/p/kimdir_15.html
+[GoodReads]: https://www.goodreads.com/user/show/80392386-furkan

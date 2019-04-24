@@ -9,7 +9,7 @@ cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-83161908-2
 twitter_username  : "xShuden"
-comments_enabled  : true # if enabled (set to true), please provide your disqus_username
+comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : "xShuden"
 postshare_enabled : true
 
