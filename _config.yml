@@ -36,6 +36,10 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-redirect-from
+
+include:
+  - .htaccess
 
 # navbar pages
 navbar:
