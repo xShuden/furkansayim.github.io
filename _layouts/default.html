@@ -1,51 +1,16 @@
+---
+layout: compress
+published: true
+---
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en"}}">
-    <head>
-        {% if page.title %}
-        <title>{{ page.title }} | {{ site.name }}</title>
-        {% else %}
-        <title>{{ site.name }}</title>
-        {% endif %}
-
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-        {% seo title=false %}
-
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata|PT+Sans">
-        <link rel="stylesheet" href="https://unpkg.com/basscss@8.0.2/css/basscss.min.css">
-
-        <link rel="stylesheet" type="text/css" href="{{ '/assets/css/main.css' | relative_url }}">
-    </head>
-
-    <body>
-        <div class="max-width-3 mx-auto">
-            <div class="clearfix">
-                <div class="col col-6">
-                    <h1>
-                        <a href="{{ '/' | relative_url }}" class="site-title">
-                            {{ site.title }}
-                        </a>
-                    </h1>
-                </div>
-
-                <div class="col col-6">
-                    <ul class="list-reset right-align">
-                        {% for entry in site.data.navigation %}
-                            <li class="inline-block mr1">
-                                <a href="{{ entry.url | header_link }}" class="navigation-item">
-                                    {{ entry.title }}
-                                </a>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            </div>
-
-            <div class="border-top">
-                {{ content }}
-            </div>
-        </div>
-    </body>
+<html>
+  {% include head.html %}
+  <body>
+    <main class="wrapper">
+      {% include header.html %}
+      {{ content }}
+      {% include footer.html %}
+    </main>
+    {% include foot.html %}
+  </body>
 </html>

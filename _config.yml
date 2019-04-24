@@ -1,18 +1,45 @@
-title: Furkan SAYIM
-name: Furkan SAYIM
-description: Bir Pentester ve Purple Teamer blogudur.
-permalink: /:title.html
-author: Furkan SAYIM
+# Site settings
+title_left    : "Furkan"
+title_right   : "SAYIM" # default: ""
+description   : "Bir Pentester'ın notlarını ve yazıları tutuğu bir kişisel alandır"
+keywords      : "pentester, purple teamer, csoc engineer"
+url           : https://furkansayim.com # site url
+baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+cover         : "" # image uri like logo/cover image for site seo
 
+google_analytics  : UA-83161908-2
+twitter_username  : "xShuden"
+comments_enabled  : true # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : "xShuden"
+postshare_enabled : true
 
-baseurl: ""
-url: "https://furkansayim.com"
-lang: "tr"
+# Build settings
+permalink   : /:title.html
+markdown    : kramdown
+highlighter : rouge
 
-github_username:  xShuden
+source      : ./
+destination : ./_site
 
-social:
-    name: Furkan SAYIM
-    links:
-        - https://twitter.com/xShuden
-        - https://github.com/xShuden
+# Sass configuration
+sass:
+  sass_dir  : assets/scss
+  style     : compressed # expanded
+
+# Author settings
+author:
+  name     : "Furkan SAYIM"
+
+plugins:
+  - jekyll-sitemap
+  - bourbon
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# navbar pages
+navbar:
+  - slug : hakkimda
+    title: Hakkımda
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]
