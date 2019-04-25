@@ -62,14 +62,14 @@ Konteyner içerisinde dosyamızı gördük ve dosyayı okudu.
 
 #### 2- Editör İndirmek
 
-Konteyner içerisinde dosya düzenlemenin bir diğer yolunda fiziksel makinelerimizde kullandığımız editörlerdir. Editör kurma seçeneğini ikinci seçenek olarak verme nedenim docker imajlarının ve konteynerlerinin mümkün olduğunca düşük boyutlara sahip olmaları gerektiği içindir. Yukarıda bahsettiğim gibi Docker'ın hızlıca kullanıma hazır ortamlar sunabilmesi  Bir konteyner oluşturalım ve bu konteyner'a nasıl editör kurabiliriz görelim.
+Konteyner içerisinde dosya düzenlemenin bir diğer yolunda fiziksel makinelerimizde kullandığımız editörlerdir. Editör kurma seçeneğini ikinci seçenek olarak verme nedenim docker imajlarının ve konteynerlerinin mümkün olduğunca düşük boyutlara sahip olmaları gerektiği içindir. Yukarıda bahsettiğim gibi Docker'ın hızlıca kullanıma hazır ortamlar sunabilmesi  Bir konteyner oluşturalım ve bu konteyner'a bir editör nasıl kurabiliriz görelim.
 
 ```
 docker run --rm -it --name=openjdk xshuden/openjdk bash
 ```
 
 Aşağıda yer alan komutlar ile konteyner içerisine `vim` editörünü kurabiliriz.
-3
+
 ```bash
 root@5ffe5691cf83:/app# apt-get update
 root@5ffe5691cf83:/app# apt-get install -y vim
