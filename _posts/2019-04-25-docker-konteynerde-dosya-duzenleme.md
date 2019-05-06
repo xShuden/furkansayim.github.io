@@ -11,6 +11,7 @@ Docker ile çok fazla kullanıyorsanız ve konteyner içerisinde bir dosyayı d�
 
 Bu hatayı neden alıyoruz. Docker bulunmadan önce Vagrant kullanılıyordu. Vagrant kullanmak Docker kadar olmasada hoşuma gidiyor. Vagrant box dosyalarının  boyutları Docker imajlarına göre çok daha fazladır. Docker imajlarının boyutlarını çok küçük olmasının nedeni ise imaj içerisinde sadece gerekli olan paketlerin bulunmasından ötürüdür. İmajların boyutularının neden küçük olduğunu anladıysak buradan şunuda anlayabiliriz. Gerekli olan paketler içerisinde bir editör programının yer alması anlamsız ve gereksizdir. Bir imaj hazırladıysanız veya bir imajı konteyner olarak çalıştırdıysanız aşağıdaki gibi bir hata ile karşılaşmış olursunuz:
 
+
 ```bash
 pac@man:~$ docker run --rm -it openjdk:10 bash
 root@745c5600d995:/# vi test.java
@@ -18,13 +19,16 @@ bash: vi: command not found
 root@745c5600d995:/# 
 ```
 
+
 ![OpenJDK 10 Docker Run](../assets/images/2019-04-25/01.png)
+
 
 ### Nasıl Çözeriz?
 
 #### 1- Volume Kullanmak
 
 Aşağıda oluşturduğumuz `Dockerfile` dosyasını görebiliriz.
+
 
 ```docker
 FROM openjdk:10

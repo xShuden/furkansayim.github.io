@@ -44,6 +44,9 @@ Bunun cevabı namespaceler. Namespaceler, bir kullanıcı ID aralığını eşle
 
 Namespace özelliği Docker'dan uzun süredir konteynerlerin içindeki kullanıcıları ana bilgisayarda farklı bir aralıkta eşleştirir. `--userns-remap` bayrağı kullanılarak daha güvenli hale getirilir.
 
+![Rootless Docker](../assets/images/2019-05-05/01.png)
+
+
 Linux, genişletilmiş yetkilere sahip olmayan kullanıcı namespacleri oluşturulmasına izin vermesine rağmen, bu namespaceler yalnızca bir kullanıcıyı eşler ve bu nedenle mevcutta bulunan konteynerler ile çalışmaz. Bunun üstesinden gelmek için, köksüz modun kullanıcıları bizim için yeniden yapılanmasını sağlayan `uidmap` paketi gereklidir. `uidmap` paketindeki ikili dosyalar setuid bit kullanır ve bu nedenle her zaman root olarak çalıştırılır.
 
 Akihiro, Farklı namespacelerin başlatılması ve `uidmap` ile birlşetirilmesi için [rootlesskit] projesi oluşturulmuştur. Rootlesskit ayrıca rootless konteynerler için networking kurulumunuda yapmaktadır. Varsayılan olarak rootless docker, Docker Desktop ürünlerinde ağ oluşturmak için de kullanılan [moby/vpnkit] projesine dayalı ağ iletişimi kullanır. Alternatif olarak, kullanıcılar [slirp4netns]'i kurabilir ve bunun yerine kullanabilirsiniz.
