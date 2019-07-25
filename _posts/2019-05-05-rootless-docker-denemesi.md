@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Köksüz (Rootless) Docker Denemesi"
-categories: "Security HashiCorp"
+categories: "Docker"
 description: "Köksüz (Rootless) Docker Denemesi"
 ---
 
