@@ -13,7 +13,7 @@ RESTful API'ını anlamadan önce, REST teriminin gerçekte ne anlama geldiğini
 
 ### REST
 
-REST (Representational State Transfer) Client-Server iletişimi yapabileceğimiz bir mimaridir. SOAP'daki gibi *sabit URL* ile metotlar üzerinden iletişim kurulur. REST'de ise *değişken URL* ile metotlar üzerinden iletişim kurulur.
+REST (Representational State Transfer) Client-Server iletişimi yapabileceğimiz bir mimaridir. SOAP'daki gibi **sabit URL** ile metotlar üzerinden iletişim kurulur. REST'de ise **değişken URL** ile metotlar üzerinden iletişim kurulur.
 
 Örn:
 ```
@@ -21,7 +21,6 @@ http://SERVER-IP/api/Kisiler
 http://SERVER-IP/api/Adresler
 http://SERVER-IP/api/Adresler/1
 http://SERVER-IP/api/Kimlikler
-
 ```
 Yukarıdaki gibi metotlar çağırılarak kullanılır.
 
@@ -38,10 +37,10 @@ Bu prensiplere uymak RESTful olarak adlandırılır. REST'i anladıktan sonra, R
 
 ## RESTFull Web Servis (API)
 
-```
-REST (Temsilî Durum Aktarımı; İng. Representational state transfer), Web protokolleri ve teknolojilerini kullanan bir dağıtık sistemdir. REST prensiplerini sağlayan sistemler, RESTful olarak sıfatlandırılır.[1]. Temsilî Durum Aktarımı ismindeki temsilî (İng. representational), verinin temsilini kastetmekte olup onunla ilgili durumun aktarılması olarak düşünülebilir.
-– Wikipedia
-```
+
+> REST (Temsilî Durum Aktarımı; İng. Representational state transfer), Web protokolleri ve teknolojilerini kullanan bir dağıtık sistemdir. REST prensiplerini sağlayan sistemler, RESTful olarak sıfatlandırılır.[1]. Temsilî Durum Aktarımı ismindeki temsilî (İng. representational), verinin temsilini kastetmekte olup onunla ilgili durumun aktarılması olarak düşünülebilir.
+> – Wikipedia
+
 
 Web servisler, HTTP ve REST ilkeleri kullanılarak uygulanır. Web servisinin temel URI'i, web servisinin deskteklediği içerik türü, web servisin desteklediği işlemler ve API olarak 4 kaynaktan oluşur. 
 
