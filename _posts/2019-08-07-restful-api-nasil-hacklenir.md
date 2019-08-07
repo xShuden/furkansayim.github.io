@@ -52,12 +52,12 @@ Bir RESTful API istemcisinin, API'nin yapısıyla ilgili ayrıntıları bilmesi 
 
 | HTTP Methot | Toplu                                    | Tekil                                           |
 |-------------|------------------------------------------|-------------------------------------------------|
-| GET         | URL: https://website.com/api/users       | URL: https://website.com/api/users/1            |
+| GET         | https://website.com/api/users            | https://website.com/api/users/1                 |
 | HEAD        | İstenilen tüm verileri al                | İstenilen tek bir veriyi alır                   |
-| POST        | URL: https://website.com/api/users       | -------------------------------                 |
-| PUT         | -------------------------------          | URL: https://website.com/api/users/1            |
-| PATCH       | -------------------------------          | URL: https://website.com/api/users/1            |
-| DELETE      | -------------------------------          | URL: https://website.com/api/users/1            |
+| POST        | https://website.com/api/users            | -------------------------------                 |
+| PUT         | -------------------------------          | https://website.com/api/users/1                 |
+| PATCH       | -------------------------------          | https://website.com/api/users/1                 |
+| DELETE      | -------------------------------          | https://website.com/api/users/1                 |
 
 HTTP yanıt kodları, müşteri tarafından istenen bir işlemin durumunu belirtmek için kullanılır.
 
