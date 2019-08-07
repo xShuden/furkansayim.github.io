@@ -51,9 +51,9 @@ Bir RESTful API istemcisinin, API'nin yapısıyla ilgili ayrıntıları bilmesi 
 ## RESTful API için HTTP Yöntemleri
 
 | HTTP Methot    | Toplu                            | Tekil                             |
-|     :---       |     :---                         |     ---:                          |
+|     :---       |     :---                         |     :---                          |
 | GET            | website.com/api/users            | website.com/api/users/1           |
-| HEAD           | İstenilen tüm verileri al        | İstenilen tek bir veriyi alır     |
+| HEAD           | Tüm verileri alır                | Tek bir veriyi alır               |
 | POST           | website.com/api/users            | -------------------------------   |
 | PUT            | -------------------------------  | website.com/api/users/1           |
 | PATCH          | -------------------------------  | website.com/api/users/1           |
