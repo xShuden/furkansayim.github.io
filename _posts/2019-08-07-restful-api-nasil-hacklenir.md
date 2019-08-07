@@ -45,20 +45,20 @@ REST (Temsilî Durum Aktarımı; İng. Representational state transfer), Web pro
 
 Web servisler, HTTP ve REST ilkeleri kullanılarak uygulanır. Web servisinin temel URI'i, web servisinin deskteklediği içerik türü, web servisin desteklediği işlemler ve API olarak 4 kaynaktan oluşur. 
 
-![RESTful APInın Kaynakları](../assets/images/2019-08-07/01.png)
+![RESTful APInın Kaynakları](../assets/images/2019-08-07/01.PNG)
 
 Bir RESTful API istemcisinin, API'nin yapısıyla ilgili ayrıntıları bilmesi gerekmez. Müşterinin hizmetle etkileşime girmesi için gereken bilgileri sağlamak sunucunun sorumluluğundadır. İstemci API'larla HTTP üzerinden etkileşime girebilir. API ile etkileşime geçmek için müşteri tarafından kullanılan farklı HTTP yöntemlerine bakalım.
 
 ## RESTful API için HTTP Yöntemleri
 
-| HTTP Methot | Toplu                                                            | Tekil                                                                           |
-|-------------|------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| GET         | URL: https://website.com/api/users                               | URL: https://website.com/api/users/1                                            |
-| HEAD        | İstenilen tüm verileri al                                        | İstenilen tek bir veriyi alır                                                   |
-| POST        | URL: https://website.com/api/users                               | -------------------------------                                                 |
-| PUT         | -------------------------------                                  | URL: https://website.com/api/users/1                                            |
-| PATCH       | -------------------------------                                  | URL: https://website.com/api/users/1                                            |
-| DELETE      | -------------------------------                                  | URL: https://website.com/api/users/1                                            |
+| HTTP Methot | Toplu                                    | Tekil                                           |
+|-------------|------------------------------------------|-------------------------------------------------|
+| GET         | URL: https://website.com/api/users       | URL: https://website.com/api/users/1            |
+| HEAD        | İstenilen tüm verileri al                | İstenilen tek bir veriyi alır                   |
+| POST        | URL: https://website.com/api/users       | -------------------------------                 |
+| PUT         | -------------------------------          | URL: https://website.com/api/users/1            |
+| PATCH       | -------------------------------          | URL: https://website.com/api/users/1            |
+| DELETE      | -------------------------------          | URL: https://website.com/api/users/1            |
 
 HTTP yanıt kodları, müşteri tarafından istenen bir işlemin durumunu belirtmek için kullanılır.
 
@@ -99,10 +99,10 @@ Tam olarak sebebinin bilinmediği durumlarda bu hata kodu ile karşılaşılır.
 Request Endpoint
 _________________
 
-![Request Endpoint](../assets/images/2019-08-07/03.png)
+![Request Endpoint](../assets/images/2019-08-07/03.PNG)
 
 
 Response Endpoint
 _________________ 
 
-![Response Endpoint](../assets/images/2019-08-07/04.png)
+![Response Endpoint](../assets/images/2019-08-07/04.PNG)
