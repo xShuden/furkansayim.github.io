@@ -1,3 +1,9 @@
+---
+layout: page
+title: Almanca
+permalink: /almanca/
+---
+
 ## Das Alphabet
 
 | Harf      | Okunuş        | Örnek (Anlamı)        |
