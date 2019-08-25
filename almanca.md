@@ -259,7 +259,9 @@ permalink: /almanca/
 
 - **Name**
 - <span style="color:red">İch *heiße* Niels.</span>
+- <span style="color:red">Benim *adım* Niels</span>
 - <span style="color:red">İch *bin* Niels.</span>
+- r:red">Ben Niels.</span>
 - <span style="color:red">*Mein* Name ist Niels Müller.</span>
 - <span style="color:red">Mein Vorname ist Niels.</span>
 - <span style="color:red">Mein Nachname/Mein Familienname ist Müller.</span>
@@ -348,3 +350,99 @@ permalink: /almanca/
 
 - **Evcil hayvanın/hayvanınız var mı?**
 - <span style="color:red">Hast du/Haben Sie ein Haustier?</span>
+
+## W-Fragen (W-Soruları)
+
+#### Wie? (Nasıl)
+
+- Wie heist du? (*Adın nedir?*)
+- Wie alt bist du? (*Yaşın kaç*)
+
+
+#### Wer? (Kim)
+
+- Wer bist du? (*Sen kimsin?*)
+- Wer wohnt hier? (*Burada kim oturuyor?*)
+
+
+#### Wo? (Nerede)
+
+- Wo wohnst du? (*Nerede oturuyorsun?*)
+- Wo bist du? (*Neredesin?*)
+
+
+#### Was? (Ne)
+
+- Was ist das? (*Bu nedir?*)
+- Was sind Sie van Beruf? (*Ne iş yapıyorsunuz?*)
+
+
+#### Woher? (Nereden)
+
+- Woher kommst du? (*Nereden geliyorsunuz?*)
+- Woher ist das? (*Nereden bu?*)
+
+
+#### Welche? (Hangi)
+
+- Welche grösse ist das? (*Hangi beden bu?*)
+- Welche Sprache sprechen Sie? (*Hangi dilleri konuşuyorsunuz?*)
+
+
+#### Wam? (Ne zaman)
+
+- Wann bist du da? (*Ne zaman geliyorsunuz?*)
+- Wann hast du Geburtstag? (*Doğum günün ne zaman?*)
+
+
+#### Warum/Wieso? (Neden)
+
+- Warum bist du krank? (*Neden hastasın?*)
+- Warum lügst du? (*Neden yalan söylüyorsunuz?*)
+
+
+## Ja - Nein Fragen
+
+- Heisst du Maria?          |       Ja/Nien     |       (Ja, ich heisse Maria)
+- Wohnst du in Bremen?      |       Ja/Nien     |       (Nein, ich wohne nicht in Bremen)
+- Bist du 26 Jahre alt?     |       Ja/Nien     |       (Ja, ich bin 26 Jahre alt)
+- Geht es dir gut?          |       Ja/Nien     |       (Ja, Danke mir geht es gut)
+- Bist de Student?          |       Ja/Nien     |       (Nien, ich studiere nicht)
+- Hast du Kinder?           |       Ja/Nien     |       (Ja, ich habe zwie Kinder)
+
+> ! Olumsuz yanıt verirken fiilden sonra **nicht** kullanılır.
+
+- Kommst du aus Bremen?     (*Bremen'den mi geiyorsunuz?*)
+> Nien, ich komme nicht aus Bremen.     (*Hayır, Bremen'den gelmiyorum.*)
+> Nien, ich komme aus Köln.     (*Hayır, Köln'den gelmiyorum.*)
+
+---
+
+> ! Olumsuz olan bir şey isim ise **kien** kullanılır. 
+
+- İst das ein Buch?     (*Bu bir kitap mı?*)
+> Nien, das ist kein Buch       (*Hayır, bu bir kitap değil.*)
+
+
+## Personalpronomen
+
+|                    |  Singular (Tekil)                    |   Plural (Çoğul)                      |
+|    :---            |  :---                                |   :---                                |
+| 1. Person (Şahıs)  |  ich                                 |   wir                                 |
+| 2. Person (Şahıs)  |  du <br> Sie (Höflichkeitsform)      |   ihr <br> Sie (Höflichkeitsform)     |
+| 3. Person (Şahıs)  |  er (eril cinsiyet için) <br> sie (dişi cinsiyet için) <br> es (cansız ve nesneler için)        |    sie
+
+
+### Singular
+
+- 1.Person      -->     ich wasche. (Yıkıyorum)
+- 2.Person      -->     du gehst/Sie gehen. (Sen/Siz gidiyorsun/uz)
+- 3.Person      -->     er spielt. (maskulin) (O oynuyor)
+- 3.Person      -->     sie isst. (feminin) (O oynuyor)
+- 3.Person      -->     es flieght. (neutrol) (O oynuyor)
+
+### Plural
+
+- 1.Person      -->     wir feiern. (Biz eğleniyoruz.)
+- 2.Person      -->     ihr schreit/Sie warten. (Siz bağırıyorsunuz / Siz bekliyorsunuz)
+- 3.Person      -->     sie putzen  (Onlar temizliyor)
