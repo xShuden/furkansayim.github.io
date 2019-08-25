@@ -261,7 +261,7 @@ permalink: /almanca/
 - <span style="color:red">İch *heiße* Niels.</span>
 - <span style="color:red">Benim *adım* Niels</span>
 - <span style="color:red">İch *bin* Niels.</span>
-- r:red">Ben Niels.</span>
+- <span style="color:red">Ben Niels.</span>
 - <span style="color:red">*Mein* Name ist Niels Müller.</span>
 - <span style="color:red">Mein Vorname ist Niels.</span>
 - <span style="color:red">Mein Nachname/Mein Familienname ist Müller.</span>
