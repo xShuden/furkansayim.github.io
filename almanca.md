@@ -354,7 +354,7 @@ permalink: /almanca/
 #### Wie? (Nasıl)
 
 - Wie heist du? (*Adın nedir?*)
-- Wie alt bist du? (*Yaşın kaç*)
+- Wie alt bist du? (*Yaşın kaç?*)
 
 
 #### Wer? (Kim)
