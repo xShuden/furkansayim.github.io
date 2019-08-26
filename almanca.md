@@ -207,7 +207,7 @@ permalink: /almanca/
 | 53        | <span style="color:orange">50</span> <span style="color:red">3</span>      | <span style="color:red">3</span> <span style="color:orange">50</span>      | <span style="color:red">drei</span>und<span style="color:orange">fünfzig</span>    |
 | 26        | <span style="color:orange">20</span> <span style="color:red">6</span>      | <span style="color:red">6</span> <span style="color:orange">20</span>      | <span style="color:red">sechs</span>und<span style="color:orange">zwanzig</span>   |
 
-## Die ZAhlen 20-100
+## Die Zahlen 20-100
 
 | Sayı  | Yazılış 	        |
 | ---	| ---		        |
@@ -258,48 +258,46 @@ permalink: /almanca/
 ## Sich Vorstellen
 
 - **Name**
-- <span style="color:red">İch *heiße* Niels.</span>
-- <span style="color:red">Benim *adım* Niels</span>
-- <span style="color:red">İch *bin* Niels.</span>
-- <span style="color:red">Ben Niels.</span>
-- <span style="color:red">*Mein* Name ist Niels Müller.</span>
-- <span style="color:red">Mein Vorname ist Niels.</span>
-- <span style="color:red">Mein Nachname/Mein Familienname ist Müller.</span>
+- <span style="color:red">İch *heiße* Niels.</span> (Benim *adım* Niels.)
+- <span style="color:red">İch *bin* Niels.</span> (Ben Niels.)
+- <span style="color:red">*Mein* Name ist Niels Müller.</span> (*Benim* adım Niels Müller.)
+- <span style="color:red">Mein Vorname ist Niels.</span> (Benim ismim Niels.)
+- <span style="color:red">Mein Nachname/Mein Familienname ist Müller.</span> (Benim soyadım Müller)
 
 - **Adresse, Telefon**
-- <span style="color:red">*Meine* Adresse ist...</span>
-- <span style="color:red">İch wohne in Große Straße.</span>
-- <span style="color:red">Die Hausnummer ist 10.</span>
-- <span style="color:red">Die Postleitzahl (von Bremen) ist 28195.</span>
-- <span style="color:red">Meine Telefonnummer/Handynummer ist...</span>
+- <span style="color:red">*Meine* Adresse ist...</span> (*Benim* adresim ...)
+- <span style="color:red">İch wohne in Große Straße.</span> (Ben Große Straße (Büyük sokak) da oturuyorum.)
+- <span style="color:red">Die Hausnummer ist 10.</span> (Ev numarası 10)
+- <span style="color:red">Die Postleitzahl (von Bremen) ist 28195.</span> (Posta kodu 28195)
+- <span style="color:red">Meine Telefonnummer/Handynummer ist...</span> (Benim Telefon numaram / Cep numaram ...)
  
 - **Herkunft**
-- <span style="color:red">İch komme aus Berlin/aus Deutschland.</span>
-- <span style="color:red">İch komme aus der Türkei.</span>
+- <span style="color:red">İch *komme* aus Berlin/aus *Deutschland*.</span> (Ben Berlin'den geliyorum./Ben Almanya'dan geliyorum.)
+- <span style="color:red">İch *komme aus der Türkei*.</span> (Ben Türkiye'den geliyorum.)
 
 - **Wohnort**
-- <span style="color:red">İch lebe/wohne in Berlin/in Deutschland.</span>
-- <span style="color:red">İch lebe/wohne in der Türkei</span>
+- <span style="color:red">İch *lebe/wohne in* Berlin/in Deutschland.</span> (Berlin'de yaşıyorum. Almanyada yaşıyorum.)
+- <span style="color:red">İch *lebe/wohne* in *der Türkei*</span> (Türkiye'de yaşıyorum.)
 
 - **Alter**
-- <span style="color:red">İch bin 29 Jahre alt.</span>
-- <span style="color:red">İch bin *am* *9.* JUli 1996 in Bremen *geboren*.</span>
-- <span style="color:red">Mein Geburtstag ist am 16. November.</span>
-- <span style="color:red">Am 17. JUli ist mein Geburtstag.</span>
-- <span style="color:red">İch habe am 22. November Geburtstag.</span>
-- <span style="color:red">Am 15. Juni habe ich Geburtstag.</span>
-- <span style="color:red">Mein Geburtstag ist im März.</span>
+- <span style="color:red">İch bin 29 Jahre alt.</span> (Ben 29 yaşındayım.)
+- <span style="color:red">İch bin *am* *9.* Juli 1996 in Bremen *geboren*.</span> (Ben 9 Temmuz 1996 Bremen'de doğdum.)
+- <span style="color:red">Mein Geburtstag ist am 16. November.</span> (Doğum günüm 16 Kasımda.)
+- <span style="color:red">Am 17. Juli ist mein Geburtstag.</span> (17 Temmuzda doğum günüm var.)
+- <span style="color:red">İch habe am 22. November Geburtstag.</span> (22 Kasımda doğum günüm var.)
+- <span style="color:red">Am 15. Juni habe ich Geburtstag.</span> (15 Haziranda doğum günüm var.)
+- <span style="color:red">Mein Geburtstag ist *im* März.</span> (Doğum günüm Martta.)
 
 - **Familienstand, Familie, Kinder (Medeni hal, Aile, Çocuk)**
-- <span style="color:red">İch bin Single/ledig/verpartnert/verheiratet/geschieden/verwitwet</span>
-- <span style="color:red">İch *habe* drei Geschwister: *einen* Bruder und zwei Schwstern.</span>
-- <span style="color:red">İch habe zwei Brüder und eine Schwester.</span>
-- <span style="color:red">İch habe *keine* Geschwister. İch bin Einzelkind.</span>
-- <span style="color:red">İch habe keine Kinder.</span>
-- <span style="color:red">İch habe ein Kind/zwei Kinder.</span>
-- <span style="color:red">İch habe einen Sohn/eine Tochter.</span>
-- <span style="color:red">İch habe zwei Söhne und eine Tochter.</span>
-- <span style="color:red">İch habe zwei Töchter und einen Sohn.</span>
+- <span style="color:red">İch bin Single/ledig/verpartnert/verheiratet/geschieden/verwitwet</span> (Ben tekim / bekarım / ilişkim var / evliyim / boşandım / dulum)
+- <span style="color:red">İch *habe* drei Geschwister: *einen* Bruder und zwei Schwstern.</span> (Üç tane kardeşim var: bir tane ağabeyim iki tane kız kardeşim var.)
+- <span style="color:red">İch habe zwei Brüder und eine Schwester.</span> (İki tane ağabeyim ve bir tane kız kardeşim var.)
+- <span style="color:red">İch habe *keine* Geschwister. İch bin Einzelkind.</span> (Kardeşim yok. Ben tek çocuğum.)
+- <span style="color:red">İch habe keine Kinder.</span> (Çocuğum yok.)
+- <span style="color:red">İch habe ein Kind/zwei Kinder.</span> (Bir tane çocuğum var.)
+- <span style="color:red">İch habe einen Sohn/eine Tochter.</span> (Bir tane oğlum var. / Bir tane kızım var.)
+- <span style="color:red">İch habe zwei Söhne und eine Tochter.</span> (İki tane oğlum var ve bir tane kızım var.)
+- <span style="color:red">İch habe zwei Töchter und einen Sohn.</span> (İki tane kızım ve bir tane kızım var.)
 
 ## Wie heissen Sie/Wie hisst du? 
 
