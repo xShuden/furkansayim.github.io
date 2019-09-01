@@ -4,4 +4,4 @@ title: JavaScriptXSS
 permalink: /jsxss/
 ---
 
-alert(document.domain)
+alert(document.domain);
