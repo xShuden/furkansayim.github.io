@@ -29,7 +29,7 @@ SSO'nun farklı uygulanabilirlikleri olmasına rağmen, genel olarak akışı ay
 
 Kullanıcı, yukarıdaki akışta görüldüğü gibi kimlik doğrulama aşamasında birkaç kullanıcı bilgisi ve erişim hak kontrolü gibi adımlardan sonra servis sağlayıcıya yönlendirilir. Kullanıcı doğrulama, kimlik sağlayıcı tarafından yapılır ve kullanıcının tüm giriş bilgileri Kimlik Sağlayıcı'da saklanır.
 
-SSO'ya kısaca bir giriş yaptık. SAML web SSO sürecini kavramak için yeterli olacaktır. Merak edip SSO'yu detaylı olarak incelemek isterseniz bu [linkten] (https://medium.com/@vivekc.16/single-sign-on-sso-one-credential-for-all-d87c7a4484f6) inceleyebilirsiniz.
+SSO'ya kısaca bir giriş yaptık. SAML web SSO sürecini kavramak için yeterli olacaktır. Merak edip SSO'yu detaylı olarak incelemek isterseniz bu [linkten](https://medium.com/@vivekc.16/single-sign-on-sso-one-credential-for-all-d87c7a4484f6) inceleyebilirsiniz.
 
 SSO için açık standart protokoller, servis sağlayıcıların ve kimlik sağlayıcıların kimlik bilgilerini nasıl aldıklarını belirtir. SAML, OpenID Connect ve WS Federation, SSO için açık ortak standartlardır.
 
