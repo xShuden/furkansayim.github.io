@@ -45,7 +45,7 @@ SAML, kimlik sağlayıcılarının yetkilendirme bilgilerini servis sağlayıcı
 
 SAML, kullanıcıların bir kez oturum açabileceği anlamına gelen SSO özelliğini etkinleştirir ve aynı kimlik bilgileri diğer hizmet sağlayıcılara giriş yapmak için yeniden kullanılabilir. Web SSO, SAML'deki en popüler kullanım durumudur.
 
-## SAML Neyi Beyan Eder?
+## SAML Beyanı Nedir?
 
 SAML Beyanı, kimlik doğrulama hizmet sağlayıcılarının, kullanıcının yetkilendirme ayrıntılarını içeren ve servis sağlayıcılarına gönderdiği XML belgesidir. SAML Web SSO oturumu sırasında kullanıcının kimliğini doğrulamasından hemen sonra kimlik doğrulama ifadesi içeren onaylama geliştirildi. Üç farklı SAML Bildirimi türü vardır. Bunlar kimlik doğrulama, nitelik ve yetkilendirme kararıdır. 
 
