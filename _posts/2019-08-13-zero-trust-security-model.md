@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Zero Trust Güvenlik Modeli Nedir?"
-categories: "Docker"
+categories: "Zero Trust"
 description: "Zero Trust Güvenlik Modeli'ni anlamak"
 ---
 
