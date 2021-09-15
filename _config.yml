@@ -3,7 +3,7 @@ title_left    : "Furkan"
 title_right   : "SAYIM" # default: ""
 description   : "Bir Pentester'ın notlarını ve yazıları tutuğu bir kişisel alandır"
 keywords      : "pentester, purple teamer, csoc engineer"
-url           : http://furkansayim.works # site url
+url           : https://furkansayim.works # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
